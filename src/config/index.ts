@@ -1,0 +1,1 @@
+export const baseUrl = 'http://47.122.19.170:8999/dataAccess-service';
